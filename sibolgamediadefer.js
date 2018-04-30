@@ -1,1 +1,0 @@
-(navigator.userAgent.indexOf('Google Page Speed Insights') == -1)&&(window.addEventListener?window.addEventListener("load",bloggerku,!1):window.attachEvent?window.attachEvent("onload",bloggerku):window.onload=bloggerku);
